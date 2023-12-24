@@ -78,11 +78,11 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 
 
 ### PROGRAM 
-
+'''
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: S V SHADHANASHREE
 RegisterNumber:  23013434
-
+'''
 
 UP COUNTER:
 ![OUTPUT](./up.png)
