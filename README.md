@@ -113,4 +113,4 @@ UP COUNTER:
 
 ### RESULTS 
 
-Thus 4 bit synchornous up and doun counter is implemented successfully
+Thus 4 bit synchornous up and down counter is implemented successfully
